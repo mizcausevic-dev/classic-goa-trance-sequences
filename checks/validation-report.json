@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:57:53.677354+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z2501-classic-goa-trance-sequences-opening/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "b384e5a02ae8d3395cb7011c5c6bcb22012c2043a64d7b5d132cbe0b45e0158d",
+      "errors": []
+    },
+    {
+      "path": "midi/z2501-classic-goa-trance-sequences-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "dcb85fc41c269f57bfe0de5356843f5a1172d06705ddf546ae002f305b9f3982",
+      "errors": []
+    },
+    {
+      "path": "midi/z2501-classic-goa-trance-sequences-opening/drums.mid",
+      "bytes": 2986,
+      "sha256": "60eb52b28f2ecb8deb644a023c70958dc4c6d18d2664c337ce8f4da0b975c12a",
+      "errors": []
+    },
+    {
+      "path": "midi/z2501-classic-goa-trance-sequences-opening/principal_motif.mid",
+      "bytes": 816,
+      "sha256": "dfa091f0a85724109dc6a847543d1751a1727314293f5aed368bcaf64dc6e758",
+      "errors": []
+    },
+    {
+      "path": "midi/z2501-classic-goa-trance-sequences-opening/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "a6aafb6d9e9f6b1246e0d2a6090eadbcb49e0db1cbe6a1e8530b497b5c7e60c2",
+      "errors": []
+    },
+    {
+      "path": "midi/z2501-classic-goa-trance-sequences-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "c468c32a54e713d5b43229b5b7be8dfc94a0369b38fbaf193016d4ac2279967d",
+      "errors": []
+    },
+    {
+      "path": "midi/z2501-classic-goa-trance-sequences-opening/z2501-classic-goa-trance-sequences-opening-combined.mid",
+      "bytes": 6037,
+      "sha256": "4615fa3d1f0b06d8cd444b5469948deae228c07f9dcf9ee1cf3472b2b3312aeb",
+      "errors": []
+    },
+    {
+      "path": "midi/z2502-classic-goa-trance-sequences-variation/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "52e87d504a63106be5d06fbccb6d816de5a1ace0677d20e3367d11e96411ab24",
+      "errors": []
+    },
+    {
+      "path": "midi/z2502-classic-goa-trance-sequences-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "c0d0d183e1f0f77528a32a8e2b69769a1988397517da0b4348f1dd6a6d0074d7",
+      "errors": []
+    },
+    {
+      "path": "midi/z2502-classic-goa-trance-sequences-variation/drums.mid",
+      "bytes": 2986,
+      "sha256": "60eb52b28f2ecb8deb644a023c70958dc4c6d18d2664c337ce8f4da0b975c12a",
+      "errors": []
+    },
+    {
+      "path": "midi/z2502-classic-goa-trance-sequences-variation/principal_motif.mid",
+      "bytes": 816,
+      "sha256": "37e6a0d62e8f24296fd50741bdd6e6be46df683470198bed0a512986d8086671",
+      "errors": []
+    },
+    {
+      "path": "midi/z2502-classic-goa-trance-sequences-variation/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "b1cf2dccdba5af18a5614338a9cc62f777e6a0859d706922352fa373cec6b11d",
+      "errors": []
+    },
+    {
+      "path": "midi/z2502-classic-goa-trance-sequences-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "ceee1b184231de35e4a7e317e6ee99fb90b8b899820143e1721060ff6c9ea2b7",
+      "errors": []
+    },
+    {
+      "path": "midi/z2502-classic-goa-trance-sequences-variation/z2502-classic-goa-trance-sequences-variation-combined.mid",
+      "bytes": 6037,
+      "sha256": "0eaaf224bcf44150c04321054e82b0e9b724ebcb522b9df072b7cd60a135b208",
+      "errors": []
+    },
+    {
+      "path": "midi/z2503-classic-goa-trance-sequences-contrast/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "a6830e803f8fad20e9e938f18b4e6af2a3081670f23780fd069324dfd0138596",
+      "errors": []
+    },
+    {
+      "path": "midi/z2503-classic-goa-trance-sequences-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "eff62a0c99a3bbf14f3b4d26d448d8903dc4c0cdbae7a2eaafa37b182dcc29e6",
+      "errors": []
+    },
+    {
+      "path": "midi/z2503-classic-goa-trance-sequences-contrast/drums.mid",
+      "bytes": 2986,
+      "sha256": "60eb52b28f2ecb8deb644a023c70958dc4c6d18d2664c337ce8f4da0b975c12a",
+      "errors": []
+    },
+    {
+      "path": "midi/z2503-classic-goa-trance-sequences-contrast/principal_motif.mid",
+      "bytes": 782,
+      "sha256": "df8b3434e62709943b1986446a397e0369d6fb37a6748f3ae97c3cb2ee86dce7",
+      "errors": []
+    },
+    {
+      "path": "midi/z2503-classic-goa-trance-sequences-contrast/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "ad32d0e4a3e620d938dc8a99ab06f9320b9752ae257ab4f3fd812a790b783f9f",
+      "errors": []
+    },
+    {
+      "path": "midi/z2503-classic-goa-trance-sequences-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "45abef81f7e825eceab0c98fdb1595d9930c555d7c3cd38ecb59cc3351d2c984",
+      "errors": []
+    },
+    {
+      "path": "midi/z2503-classic-goa-trance-sequences-contrast/z2503-classic-goa-trance-sequences-contrast-combined.mid",
+      "bytes": 6003,
+      "sha256": "804ec07755a6a558b16137042ec1dc64fe7757512f143d1d0e890b93f719eef6",
+      "errors": []
+    },
+    {
+      "path": "midi/z2504-classic-goa-trance-sequences-return/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "b9a074ba72948897d2b07f8f0a41325c63d005acec3fd17fec8471237bbf07c3",
+      "errors": []
+    },
+    {
+      "path": "midi/z2504-classic-goa-trance-sequences-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "142c1570260cb0c06a7bcaeb90652a39f76fdf49ceeac2beb57a001bd2c2361e",
+      "errors": []
+    },
+    {
+      "path": "midi/z2504-classic-goa-trance-sequences-return/drums.mid",
+      "bytes": 2986,
+      "sha256": "60eb52b28f2ecb8deb644a023c70958dc4c6d18d2664c337ce8f4da0b975c12a",
+      "errors": []
+    },
+    {
+      "path": "midi/z2504-classic-goa-trance-sequences-return/principal_motif.mid",
+      "bytes": 782,
+      "sha256": "2113bf23c34f585a13c230b9b354061952d5784b1b06294607693159ae985fcc",
+      "errors": []
+    },
+    {
+      "path": "midi/z2504-classic-goa-trance-sequences-return/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "aceb8a2bca0e6afeecdb2a48b59d21d59d352876bc005da44619f89ee68f3e71",
+      "errors": []
+    },
+    {
+      "path": "midi/z2504-classic-goa-trance-sequences-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "dc1b4e84f1373a6a14092bc65ffcae8d7aeac24f16fe60adc14240153230db5b",
+      "errors": []
+    },
+    {
+      "path": "midi/z2504-classic-goa-trance-sequences-return/z2504-classic-goa-trance-sequences-return-combined.mid",
+      "bytes": 6003,
+      "sha256": "71a94d4af6ef55e10faa5e04769001f17cc846b8e772f1d1e8985592afd2dde1",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

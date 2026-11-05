@@ -1,0 +1,450 @@
+{
+  "algorithm": "SHA-256",
+  "files": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "art/cover-provenance.json",
+      "bytes": 266,
+      "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
+    },
+    {
+      "path": "art/cover.svg",
+      "bytes": 1937,
+      "sha256": "8ceed2570aba1ef451e2ae157720a8b8eaf75ebcc9632df3ec7ed794d64cc07e"
+    },
+    {
+      "path": "art/hero.jpg",
+      "bytes": 308855,
+      "sha256": "152429e47866da5a4d735c029993c5edbbb66b4cf61d27ff7f385ea0f521b27a"
+    },
+    {
+      "path": "art/illustration-source.png",
+      "bytes": 2717199,
+      "sha256": "4eb06bd2b7450fd43e00209746a4e31853f96acaf4efb2a196e5082fd1c1427f"
+    },
+    {
+      "path": "art/image-prompt.txt",
+      "bytes": 305,
+      "sha256": "bf3e05e77f9e8a4bb7378e5f28e53201b95d284432070d3fbad8440dc994203c"
+    },
+    {
+      "path": "art/raster-provenance.json",
+      "bytes": 500,
+      "sha256": "7774c4af8ebc2f0920a057a172af7c0de3d6904f8ca56693cbb5267581e3c903"
+    },
+    {
+      "path": "art/square.jpg",
+      "bytes": 336378,
+      "sha256": "057ce191794a2069e3d7c83f77fc5da7dc4985b1c0222d4776c563c7cd4a4345"
+    },
+    {
+      "path": "articles/medium-draft.md",
+      "bytes": 763,
+      "sha256": "45acafc0ab91eca126fd52eb3a7469fe2a93c889f4edd40971194e86dd0d8138"
+    },
+    {
+      "path": "articles/medium-paste.txt",
+      "bytes": 763,
+      "sha256": "45acafc0ab91eca126fd52eb3a7469fe2a93c889f4edd40971194e86dd0d8138"
+    },
+    {
+      "path": "catalog/clip-index.csv",
+      "bytes": 1844,
+      "sha256": "6ca8f26f6100371dd968544b276c4c38fcf8bdb986846af4bbef87d039e71bc9"
+    },
+    {
+      "path": "catalog/drum-map.csv",
+      "bytes": 158,
+      "sha256": "ee5949764a6e42171b113a12ed1b18e3cb7f97fdcf48a545348cb8fdaf611c5c"
+    },
+    {
+      "path": "catalog/harmonic-events.csv",
+      "bytes": 25654,
+      "sha256": "4c704d74ec6f6a5e5689327c61ca362ebcbb3f827752abf6c7ef25efd0651d77"
+    },
+    {
+      "path": "catalog/note-events.csv",
+      "bytes": 103677,
+      "sha256": "c7e88ba3fdf98d8353543c9caf7263ef14b8c926fbffdf9e2f52a5e15b24df5b"
+    },
+    {
+      "path": "catalog/patch-recipes.json",
+      "bytes": 1810,
+      "sha256": "80584fcd3db787802c3797409f4da4ac3b7179ec449a2829b7d85b2b349a6727"
+    },
+    {
+      "path": "catalog/release-spec.json",
+      "bytes": 2539,
+      "sha256": "c8e20305396f6151590223ec29bdd12fbfec3f45d6c4c8ff26f6e197e194d259"
+    },
+    {
+      "path": "catalog/structural-regions.csv",
+      "bytes": 816,
+      "sha256": "42e8edb62233b94e285e4961f0eeddebbe872e49bdb06f4f8c60151b570fbf52"
+    },
+    {
+      "path": "catalog/study-index.csv",
+      "bytes": 1270,
+      "sha256": "592c7d8a3ef97c9166299b9d01b00d5b2a396db750d51afd1cdef1bd5eb28d43"
+    },
+    {
+      "path": "checks/build-metadata.json",
+      "bytes": 395,
+      "sha256": "d0c84430d1b75b27ff368adc9104c967422abb59795abfe294f8dcf21f602746"
+    },
+    {
+      "path": "checks/clip-validation.json",
+      "bytes": 309,
+      "sha256": "85425e84ad56b8ce2ee831fbea086f67539e9c2052c619055b1b8e99d8b9166e"
+    },
+    {
+      "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+      "bytes": 81,
+      "sha256": "770a4342c942a1b9c397764512ec163cdcfe1d2fbbe342eccc7e4a0d01c414ad"
+    },
+    {
+      "path": "checks/media-validation.json",
+      "bytes": 462,
+      "sha256": "96e442960d4e4ecb459c3eacba4abcd2a1b70cf47cd25c33dd86f20d6da3cdd1"
+    },
+    {
+      "path": "clips/z2501-melody-01.mid",
+      "bytes": 166,
+      "sha256": "3bec6e5eed922e6e7601f1f858fca29f72944091fe04b2dc0cf050cc0f639948"
+    },
+    {
+      "path": "clips/z2501-melody-02.mid",
+      "bytes": 166,
+      "sha256": "369973fc47b2cb6f814dc7a46a2d8928199ecb4f23f49b7d5fd5d046b1198b81"
+    },
+    {
+      "path": "clips/z2501-melody-03.mid",
+      "bytes": 123,
+      "sha256": "23e3c9938b1e7b5dc432fdcea77e83c1186b5e5b20841b78e9f064abd645b5da"
+    },
+    {
+      "path": "clips/z2501-melody-04.mid",
+      "bytes": 123,
+      "sha256": "6667bf293a96225b10539dc8f2314aa8e32b5e8cd4d74f0ff9e9287aef10d6f8"
+    },
+    {
+      "path": "clips/z2502-melody-01.mid",
+      "bytes": 166,
+      "sha256": "bf8bf06c68fab4ebcab009337a5ebb2c3883acfd79412d238b175102cbbf6b7b"
+    },
+    {
+      "path": "clips/z2502-melody-02.mid",
+      "bytes": 166,
+      "sha256": "b627bedf69887f60235e987474ebbe9e00e422019b033a4665aca259607be801"
+    },
+    {
+      "path": "clips/z2502-melody-03.mid",
+      "bytes": 123,
+      "sha256": "f70ab5095965433ba33be60b5546143a38157eb5c900c6ff0ddf3e2bdd27ef63"
+    },
+    {
+      "path": "clips/z2502-melody-04.mid",
+      "bytes": 123,
+      "sha256": "c8f59e18b11fc35928e159fca99ec8b8963fbc7fa4ce539ca645f918c50e2ea5"
+    },
+    {
+      "path": "clips/z2503-melody-01.mid",
+      "bytes": 167,
+      "sha256": "ea88645c10af83efd8daf02b47bdddd4add4f2238ca8aeb0868dbf1ae6ca7a96"
+    },
+    {
+      "path": "clips/z2503-melody-02.mid",
+      "bytes": 167,
+      "sha256": "64f4e0b798d406e7afa0d415f3dfd2094ce9a8d8dd4a8bed24d14dfa5c68176f"
+    },
+    {
+      "path": "clips/z2503-melody-03.mid",
+      "bytes": 106,
+      "sha256": "3deca61a40b64cfd27e132a4262320d8be40a2c9c80a3ff807351e9a0e05f6fc"
+    },
+    {
+      "path": "clips/z2503-melody-04.mid",
+      "bytes": 106,
+      "sha256": "f76b3182c6c93c5ece3cc63e238958def61080aa3a7415455cc67c4926a11246"
+    },
+    {
+      "path": "clips/z2504-melody-01.mid",
+      "bytes": 167,
+      "sha256": "7a984ee603ddb15167dcfe39df1a6e46126fffedc5e5758b5eccc064da58f1af"
+    },
+    {
+      "path": "clips/z2504-melody-02.mid",
+      "bytes": 167,
+      "sha256": "3a321b01307df35610ac2ac015aa78033f2255e99b629bc85168b9b04c1d7f48"
+    },
+    {
+      "path": "clips/z2504-melody-03.mid",
+      "bytes": 105,
+      "sha256": "0b1270d0aebd734f431fe150859c08a9b7a961525efa1510606a8492c40de469"
+    },
+    {
+      "path": "clips/z2504-melody-04.mid",
+      "bytes": 105,
+      "sha256": "0101814010f9eac0b9966d3a36730781e5e59bebf7b14d2821d6a1b4a68b76cf"
+    },
+    {
+      "path": "delivery.md",
+      "bytes": 448,
+      "sha256": "6a009d5d2b4b51c9d491e3df729c5d065d538cd42aeaab41d044e7c79a325c56"
+    },
+    {
+      "path": "downloads/classic-goa-trance-sequences-midi.zip",
+      "bytes": 32164,
+      "sha256": "ac988c76f82f305a75535605203dd95f37900a558c4d5b1600bfd7fe4f0295c3"
+    },
+    {
+      "path": "film/motion-note-roll.png",
+      "bytes": 2937,
+      "sha256": "7277412a72723f7f3e190c70de75dd3d5effccc79bafc47e2bd67272da6cf3da"
+    },
+    {
+      "path": "film/motion-overlay.png",
+      "bytes": 35955,
+      "sha256": "922a22fa9d2bc3ffcf1b0f36aced8cd4a23ad67f459d88c0778a76a8d929abd3"
+    },
+    {
+      "path": "film/poster.jpg",
+      "bytes": 266200,
+      "sha256": "4f19d0ce48f1fb80301b7a60daa4ceeeed64a953c49d929730d611390c65b96c"
+    },
+    {
+      "path": "film/preview.mp4",
+      "bytes": 1109679,
+      "sha256": "e1eb9c72c8e5c380643ef5f8551c4bb25aa014c66cc99f044f68cd413f6288fe"
+    },
+    {
+      "path": "film/preview.vtt",
+      "bytes": 86,
+      "sha256": "66a3a5d04904c48ceef8c1eb6e0698d44a7ec9f80950e2cc21b7dc0f54c12fea"
+    },
+    {
+      "path": "film/video-manifest.json",
+      "bytes": 1246,
+      "sha256": "5f27e89c1c5af867b5c0fb852659c8ba14189eea330eb522cecfec5bee746d72"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10116,
+      "sha256": "464fc26f84db0e7bb8cd114654e61402274ea468c76d55b069f9a70d88184fa3"
+    },
+    {
+      "path": "midi/z2501-classic-goa-trance-sequences-opening/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "b384e5a02ae8d3395cb7011c5c6bcb22012c2043a64d7b5d132cbe0b45e0158d"
+    },
+    {
+      "path": "midi/z2501-classic-goa-trance-sequences-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "dcb85fc41c269f57bfe0de5356843f5a1172d06705ddf546ae002f305b9f3982"
+    },
+    {
+      "path": "midi/z2501-classic-goa-trance-sequences-opening/drums.mid",
+      "bytes": 2986,
+      "sha256": "60eb52b28f2ecb8deb644a023c70958dc4c6d18d2664c337ce8f4da0b975c12a"
+    },
+    {
+      "path": "midi/z2501-classic-goa-trance-sequences-opening/principal_motif.mid",
+      "bytes": 816,
+      "sha256": "dfa091f0a85724109dc6a847543d1751a1727314293f5aed368bcaf64dc6e758"
+    },
+    {
+      "path": "midi/z2501-classic-goa-trance-sequences-opening/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "a6aafb6d9e9f6b1246e0d2a6090eadbcb49e0db1cbe6a1e8530b497b5c7e60c2"
+    },
+    {
+      "path": "midi/z2501-classic-goa-trance-sequences-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "c468c32a54e713d5b43229b5b7be8dfc94a0369b38fbaf193016d4ac2279967d"
+    },
+    {
+      "path": "midi/z2501-classic-goa-trance-sequences-opening/z2501-classic-goa-trance-sequences-opening-combined.mid",
+      "bytes": 6037,
+      "sha256": "4615fa3d1f0b06d8cd444b5469948deae228c07f9dcf9ee1cf3472b2b3312aeb"
+    },
+    {
+      "path": "midi/z2502-classic-goa-trance-sequences-variation/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "52e87d504a63106be5d06fbccb6d816de5a1ace0677d20e3367d11e96411ab24"
+    },
+    {
+      "path": "midi/z2502-classic-goa-trance-sequences-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "c0d0d183e1f0f77528a32a8e2b69769a1988397517da0b4348f1dd6a6d0074d7"
+    },
+    {
+      "path": "midi/z2502-classic-goa-trance-sequences-variation/drums.mid",
+      "bytes": 2986,
+      "sha256": "60eb52b28f2ecb8deb644a023c70958dc4c6d18d2664c337ce8f4da0b975c12a"
+    },
+    {
+      "path": "midi/z2502-classic-goa-trance-sequences-variation/principal_motif.mid",
+      "bytes": 816,
+      "sha256": "37e6a0d62e8f24296fd50741bdd6e6be46df683470198bed0a512986d8086671"
+    },
+    {
+      "path": "midi/z2502-classic-goa-trance-sequences-variation/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "b1cf2dccdba5af18a5614338a9cc62f777e6a0859d706922352fa373cec6b11d"
+    },
+    {
+      "path": "midi/z2502-classic-goa-trance-sequences-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "ceee1b184231de35e4a7e317e6ee99fb90b8b899820143e1721060ff6c9ea2b7"
+    },
+    {
+      "path": "midi/z2502-classic-goa-trance-sequences-variation/z2502-classic-goa-trance-sequences-variation-combined.mid",
+      "bytes": 6037,
+      "sha256": "0eaaf224bcf44150c04321054e82b0e9b724ebcb522b9df072b7cd60a135b208"
+    },
+    {
+      "path": "midi/z2503-classic-goa-trance-sequences-contrast/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "a6830e803f8fad20e9e938f18b4e6af2a3081670f23780fd069324dfd0138596"
+    },
+    {
+      "path": "midi/z2503-classic-goa-trance-sequences-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "eff62a0c99a3bbf14f3b4d26d448d8903dc4c0cdbae7a2eaafa37b182dcc29e6"
+    },
+    {
+      "path": "midi/z2503-classic-goa-trance-sequences-contrast/drums.mid",
+      "bytes": 2986,
+      "sha256": "60eb52b28f2ecb8deb644a023c70958dc4c6d18d2664c337ce8f4da0b975c12a"
+    },
+    {
+      "path": "midi/z2503-classic-goa-trance-sequences-contrast/principal_motif.mid",
+      "bytes": 782,
+      "sha256": "df8b3434e62709943b1986446a397e0369d6fb37a6748f3ae97c3cb2ee86dce7"
+    },
+    {
+      "path": "midi/z2503-classic-goa-trance-sequences-contrast/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "ad32d0e4a3e620d938dc8a99ab06f9320b9752ae257ab4f3fd812a790b783f9f"
+    },
+    {
+      "path": "midi/z2503-classic-goa-trance-sequences-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "45abef81f7e825eceab0c98fdb1595d9930c555d7c3cd38ecb59cc3351d2c984"
+    },
+    {
+      "path": "midi/z2503-classic-goa-trance-sequences-contrast/z2503-classic-goa-trance-sequences-contrast-combined.mid",
+      "bytes": 6003,
+      "sha256": "804ec07755a6a558b16137042ec1dc64fe7757512f143d1d0e890b93f719eef6"
+    },
+    {
+      "path": "midi/z2504-classic-goa-trance-sequences-return/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "b9a074ba72948897d2b07f8f0a41325c63d005acec3fd17fec8471237bbf07c3"
+    },
+    {
+      "path": "midi/z2504-classic-goa-trance-sequences-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "142c1570260cb0c06a7bcaeb90652a39f76fdf49ceeac2beb57a001bd2c2361e"
+    },
+    {
+      "path": "midi/z2504-classic-goa-trance-sequences-return/drums.mid",
+      "bytes": 2986,
+      "sha256": "60eb52b28f2ecb8deb644a023c70958dc4c6d18d2664c337ce8f4da0b975c12a"
+    },
+    {
+      "path": "midi/z2504-classic-goa-trance-sequences-return/principal_motif.mid",
+      "bytes": 782,
+      "sha256": "2113bf23c34f585a13c230b9b354061952d5784b1b06294607693159ae985fcc"
+    },
+    {
+      "path": "midi/z2504-classic-goa-trance-sequences-return/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "aceb8a2bca0e6afeecdb2a48b59d21d59d352876bc005da44619f89ee68f3e71"
+    },
+    {
+      "path": "midi/z2504-classic-goa-trance-sequences-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "dc1b4e84f1373a6a14092bc65ffcae8d7aeac24f16fe60adc14240153230db5b"
+    },
+    {
+      "path": "midi/z2504-classic-goa-trance-sequences-return/z2504-classic-goa-trance-sequences-return-combined.mid",
+      "bytes": 6003,
+      "sha256": "71a94d4af6ef55e10faa5e04769001f17cc846b8e772f1d1e8985592afd2dde1"
+    },
+    {
+      "path": "preview/classic-goa-trance-sequences-simple-synth-preview.mp3",
+      "bytes": 1349216,
+      "sha256": "113328113127c67bc7bc7a188aa002f7bd0bb475a3f915c3766b98bbfc8b4916"
+    },
+    {
+      "path": "preview/preview-manifest.json",
+      "bytes": 1194,
+      "sha256": "38ea3bb9469f85e2d8034ae68fde1fc505676601ef27d7b97bdc700a6a5d565d"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4020,
+      "sha256": "f6739404a6e438c8f2388776141a7ff21f02ec58339822215e69dd3e166a6db0"
+    },
+    {
+      "path": "social/instagram/caption.txt",
+      "bytes": 231,
+      "sha256": "3365cca18ddf17bf4f28d410913332c2e9b5f8fe9500831bfe8db48ba205dd67"
+    },
+    {
+      "path": "social/instagram/portrait.jpg",
+      "bytes": 336671,
+      "sha256": "55cbf26d37638574063a9a053914515b512250f85bbd3218e1dcb60a012e6f1a"
+    },
+    {
+      "path": "social/instagram/square.jpg",
+      "bytes": 305826,
+      "sha256": "238cb23bc467a869150dc2b064eb06ad2a158eb81d5f44e6aaece76313897605"
+    },
+    {
+      "path": "social/x/card.jpg",
+      "bytes": 279061,
+      "sha256": "aba931cbf6baf149c17cdc5df8ff85c124115955a8fb3c700fcf879e557fa68c"
+    },
+    {
+      "path": "social/x/post.txt",
+      "bytes": 193,
+      "sha256": "9c66a95bbc1372fec318aea87a2b9d2bdf328ec566ccd973315084cbaab1116d"
+    },
+    {
+      "path": "tools/build_footwork.py",
+      "bytes": 46932,
+      "sha256": "bcf2c82d909ad5b5b4afce885c34f9a2c2e799660d5c3cda80ec89beffa6f994"
+    },
+    {
+      "path": "tools/build_release.py",
+      "bytes": 147457,
+      "sha256": "97c986fb7994c8dd519b8f85696af96d32241a668111f4ffe4c3e2c241e1385c"
+    },
+    {
+      "path": "tools/polish_release.py",
+      "bytes": 7763,
+      "sha256": "b656e270626dcd22f2bff72dcc733516775299a975808bc7e674ca19c9a5219a"
+    },
+    {
+      "path": "tools/produce_clips.py",
+      "bytes": 13319,
+      "sha256": "7d7350b6b07440d599092f0f2fdc44d9c6e99e0a0c53dd96d5f8c8d24cde8f99"
+    },
+    {
+      "path": "tools/render_motion_preview.py",
+      "bytes": 7162,
+      "sha256": "e5269d02f53d5eb4c52d07826528ed8651ce8eea2a1d9ca495c440bb75e59791"
+    },
+    {
+      "path": "tools/validate_release.py",
+      "bytes": 13763,
+      "sha256": "c590a3c9e44249ddc1a2d14a048dea0f3e1ef0a232d3b86ea96a0f4eafeff6a5"
+    }
+  ]
+}

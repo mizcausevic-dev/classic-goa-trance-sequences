@@ -1,0 +1,26 @@
+{
+  "title": "Classic Goa Trance Sequences",
+  "study": "z2501",
+  "bpm": 138,
+  "source_audio": "preview/classic-goa-trance-sequences-simple-synth-preview.mp3",
+  "source_audio_sha256": "113328113127c67bc7bc7a188aa002f7bd0bb475a3f915c3766b98bbfc8b4916",
+  "source_midi": "midi/z2501-classic-goa-trance-sequences-opening/z2501-classic-goa-trance-sequences-opening-combined.mid",
+  "source_midi_sha256": "4615fa3d1f0b06d8cd444b5469948deae228c07f9dcf9ee1cf3472b2b3312aeb",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "c7e88ba3fdf98d8353543c9caf7263ef14b8c926fbffdf9e2f52a5e15b24df5b",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "152429e47866da5a4d735c029993c5edbbb66b4cf61d27ff7f385ea0f521b27a",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "e1eb9c72c8e5c380643ef5f8551c4bb25aa014c66cc99f044f68cd413f6288fe",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
