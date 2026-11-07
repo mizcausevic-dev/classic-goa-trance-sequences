@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/classic-goa-trance-sequences-midi.zip",
-      "bytes": 32164,
-      "sha256": "ac988c76f82f305a75535605203dd95f37900a558c4d5b1600bfd7fe4f0295c3"
+      "bytes": 33151,
+      "sha256": "afa6b7dc4498f3e3b273df17de757bdb9df764958de8ff4e5259b3a735df55a0"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10116,
-      "sha256": "464fc26f84db0e7bb8cd114654e61402274ea468c76d55b069f9a70d88184fa3"
+      "bytes": 10306,
+      "sha256": "d9aca6d758c2ad28aa79c00da47339b1a3a673c02a4de82d462b7d235d0b6f9d"
     },
     {
       "path": "midi/z2501-classic-goa-trance-sequences-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "71a94d4af6ef55e10faa5e04769001f17cc846b8e772f1d1e8985592afd2dde1"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/classic-goa-trance-sequences-simple-synth-preview.mp3",
       "bytes": 1349216,
       "sha256": "113328113127c67bc7bc7a188aa002f7bd0bb475a3f915c3766b98bbfc8b4916"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4026,
-      "sha256": "bda6606334561d0e28609df5a8c93df5840bda6e814cc679875e5b1f4cea5014"
+      "bytes": 4141,
+      "sha256": "a97261106fd161d33466871671d320d8d769330898954b7b97c544fec62eaf32"
     },
     {
       "path": "social/instagram/caption.txt",
